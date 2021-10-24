@@ -38,3 +38,18 @@
     background-color: steelblue;
     height: 8em;
 }
+.letraPequenia {
+    font-size: 80%;
+}
+
+.text-azul {
+    color: blue;
+}
+
+.bg-celeste {
+    background-color: skyblue;
+}
+
+.mouse:hover {
+    cursor: pointer;
+}
